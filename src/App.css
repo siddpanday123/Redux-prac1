@@ -1,0 +1,36 @@
+*{
+  background-color: #c4e9d1;
+}
+.App {
+  text-align: center;
+}
+
+.head{
+  color: #3e4a61;
+  text-shadow: 1px 4px 6px #005792 ;
+}
+
+.head1{
+  color: #005792;
+  text-shadow: 1px 1px 2px #111111;
+}
+.decri{
+  padding: .7rem;
+  border: 1px solid #79c2d0;
+  box-shadow: 1px 2px 2px black;
+  
+}
+.inpu{
+  padding: .8rem;
+  margin: .5rem;
+  box-shadow: 1px 2px 2px black;
+
+}
+.incri:hover ,.decri:hover{
+  background-color: #111111;
+}
+.incri{
+  padding: .7rem;
+  border: 1px solid #79c2d0;
+  box-shadow: 1px 2px 2px black;
+}
